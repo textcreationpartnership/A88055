@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter, written to a member of Parliament, concerning the East-India trade</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88055</idno>
+            <idno type="STC">Wing L1769</idno>
+            <idno type="STC">ESTC R230707</idno>
+            <idno type="EEBO-CITATION">99896435</idno>
+            <idno type="PROQUEST">99896435</idno>
+            <idno type="VID">154262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154262)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2408:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter, written to a member of Parliament, concerning the East-India trade</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company --  Early works to 1800.</term>
+               <term>Great Britain --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:154262:1"/>
+            <pb facs="tcp:154262:1" rendition="simple:additions"/>
+            <pb facs="tcp:154262:2"/>
+            <pb n="1" facs="tcp:154262:2" rendition="simple:additions"/>
+            <head>
+               <hi>A LETTER,</hi> Written to a Member of <hi>Parliament,</hi> Concerning the <hi>Eaſt-India</hi> TRADE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE many Obligations which you have laid upon me, might justly make me thought guilty of the greateſt <hi>Ingratitude,</hi> if I ſhould in any thing omit a Compliance with your <hi>Com<g ref="char:EOLhyphen"/>mands;</hi> and therefore without making that <hi>Apology</hi> which I might well do to excuſe my ſelf, for my diſability to give you that Satisfaction which you may probably expect, I ſhall readily obey, and give you the beſt I can, hoping you will excuſe the <hi>defects,</hi> and accept my <hi>endeavours,</hi> and the readineſs of my Will, which (however my Power may) can never be wanting in any thing of your <hi>Service.</hi>
+            </p>
+            <p>The two Points on which you were pleaſed chiefly to require my thoughts, in relation to the <hi>Eaſt-India</hi> Trade, were theſe:</p>
+            <p>1ſt. Whither the Continuance of <hi>the</hi> Eaſt-India <hi>Trade</hi> in the preſent <hi>Company,</hi> and not permitting others to Trade, be moſt for the Intereſt of <hi>England,</hi> or of the <hi>Dutch?</hi>
+            </p>
+            <p>2ly. Whether that <hi>Trade</hi> may not be Setled, by adding <hi>744000 <abbr>l.</abbr>
+               </hi> by <hi>new Subſcriptions</hi> to the Stock of the preſent <hi>Company,</hi> as much to the advantage of <hi>the Kingdom in general;</hi> as by a <hi>Company</hi> with a new Joint-Stock of <hi>15</hi> Hundred Thouſand Pounds, or <hi>2</hi> Millions to be raiſed by <hi>new Subſcriptions?</hi>
+            </p>
+            <p>
+               <hi>As to the firſt Point,</hi> Whether the continuance of the <hi>Eaſt-India Trade</hi> in the preſent <hi>Company,</hi> and not permitting others to Trade, be moſt for the Interest of <hi>England,</hi> or of the <hi>Dutch?</hi> — I muſt beg leave to obſerve to you, That the great advantages which the <hi>Dutch</hi> have now over us in most Trades, <hi>is become the ſubject of almoſt every ones Obſervation.</hi> So that it may well be accounted <hi>a very Popular Objection</hi> to any thing, of which it can be ſaid, that it is their Intereſt, and eſpecially in thoſe Trades, wherein this <hi>Kingdom</hi> ſtands more im<g ref="char:EOLhyphen"/>mediately in competition with them. — The Members of the <hi>Eaſt-India Company</hi> were well aware of this Objection, and how juſtly it might be urged against the Continuance of their <hi>Company;</hi> and their pretence of having the ſole Trade of the <hi>Eaſt-Indies,</hi> excluſive of all others their
+<pb n="2" facs="tcp:154262:3"/>Fellow-Subjects; and therefore they have made it their Buſineſs, to ward it off from themſelves; and by ſly Inſinuations, to caſt it upon thoſe, who have endeavoured to procure the Settlement of that Trade, <hi>on a National Foundation,</hi> thereby to retrieve and preſerve it: And they have ſo far ſucceeded in this Deſign, as to perſwade ſome un<g ref="char:EOLhyphen"/>thinking men, That what is really and truly the ſtrongeſt Argument in the World, for the Determination of this <hi>Company,</hi> ought to be uſed in their Defence, for its Continuance. And how falſe ſoever this their Aſſertion is in it ſelf, yet by the diligence, and aſſurance of thoſe who Solicit their Affairs, it has not wholly been without Succeſs; having made an Impreſſion in the minds of ſome, (though there will not appear <hi>any ſhadow of Reaſon</hi> for ſuch an Opinion,) when it's ſeriouſly conſider<g ref="char:EOLhyphen"/>ed, That for ſeveral years paſt, this <hi>Kingdom</hi> hath been decreaſing, and the <hi>Dutch</hi> increaſing in that Trade; ſo that indeed, they have had it in a manner wholly to themſelves: For if our <hi>Eaſt-India Trade</hi> were compared with <hi>theirs,</hi> for theſe <hi>4</hi> or <hi>5</hi> years paſt, we ſhould find, that they have yearly had home above ten times as much Goods, as <hi>our Company:</hi> and more particularly, the last year, the <hi>Dutch</hi> had <hi>15</hi> Ships arrived from thence, richly laden, beſides <hi>3</hi> that were loſt, coming home: whereas <hi>our Company</hi> had but one Ship, and ſhe not full, and her Lading mean, and of that, great part for <hi>private Accounts;</hi> not<g ref="char:EOLhyphen"/>withſtanding that about half the value of this Ships <hi>Cargo</hi> was drawn upon them by Bills of <hi>Exchange;</hi> and this year the <hi>Dutch</hi> have had home <hi>16</hi> Ships richly laden; and we but <hi>3</hi> ſmall ones, with very poor <hi>Cargo's,</hi> (though great part on Permiſſion;) all of them together, not above the Burthen, or near the Value of ſome one of the <hi>Dutch</hi> Ships, or of one ſuch Ship as we have been formerly uſed to have from thence. The <hi>
+                  <hi>Dutch</hi> Cargo's,</hi> for theſe laſt two years only, are computed to amount to about <hi>Five Millions Sterling,</hi> and ours not <hi>one Twentieth part</hi> ſo much: though moſt <hi>Eaſt-India</hi> Goods are worth in <hi>England</hi> at leaſt one half part more, and ſome above twice as much, as they are worth in <hi>Holland.</hi>
+            </p>
+            <p>And whereas we formerly ſupplied <hi>Germany, Sweden, Denmark, France, Spain, Italy,</hi> and even <hi>Holland</hi> it ſelf, with most <hi>Eaſt-India</hi> Goods, (Spices excepted,) the <hi>Dutch</hi> have for ſeveral years paſt, not only furniſht themſelves, and all all thoſe Countries; but it's come to be our turn, to be ſupplied by ſtealth, from <hi>Holland,</hi> with thoſe Com<g ref="char:EOLhyphen"/>modities, for our own Conſumption; thus adding another occaſion, beſides the War, to export our Bullion thither.</p>
+            <p>There is no need of Arguments, to ſhew a thing ſo clear in it ſelf, that this Method of Trade, has already, and will in time much more Impoveriſh <hi>England,</hi> and Enrich <hi>Holland;</hi> unleſs ſome ſpeedy care be taken to prevent it. And beſides, the loſs of our Exportation-Trade,
+<pb n="3" facs="tcp:154262:3" rendition="simple:additions"/>for thoſe Commodities, and the great Burthen and Tax which is laid on the whole Nation, by paying ſo dear for all <hi>Eaſt-India Goods,</hi> ſpent for our own Conſumption; we are likewiſe obliged, to pay ſo much more, for Taxes for the ſupport of the War, than otherwiſe we need to do. For if <hi>the</hi> Eaſt-India <hi>Trade</hi> were drove to the heighth, as it would be, if either <hi>a new Stock</hi> were raiſed, and a <hi>a new Company</hi> eſtabliſht; or all the Subject; of <hi>England</hi> were permitted to enjoy that Trade, (as there is no Law that prohibits them,) the Cuſtoms and Impoſts payble <hi>on</hi> Eaſt-India <hi>Commodities,</hi> conſidering the high Duties which are now laid upon them, would amount to above <hi>100000 <abbr>l.</abbr> per annum;</hi> and the whole Cuſtoms which the <hi>Company</hi> have paid, for all their own, as well as <hi>Armenians,</hi> and other Mens Goods, which have been brought home on their Ships, on permiſſion, the laſt two years, hath amounted but to about <hi>20000 <abbr>l.</abbr>
+               </hi> which in two years time is above <hi>180000 <abbr>l.</abbr>
+               </hi>—that the Nation has loſt on the Cuſtoms of <hi>Eaſt-India Goods,</hi> meerly by the continuance of this <hi>Company,</hi> and hindring others from Trading. A Summ which could be but ill ſpared at this time; and which would have excuſed ſome other Tax, being laid on the Subject, to ſupply the want of it.</p>
+            <p>And this Calculation will ſeem very modeſt, when it's conſidered:</p>
+            <p>1ſt. That the Owners <hi>of one ſmall Ship,</hi> arrived this year for parti<g ref="char:EOLhyphen"/>cular accounts, whoſe <hi>Cargo</hi> cost here but <hi>16</hi> or <hi>17000 <abbr>l.</abbr>
+               </hi> have paid near <hi>as much for Cuſtoms, as what her whole Cargo coſt;</hi> which is but little leſs than what the <hi>Company</hi> have paid for all their own, and other mens Goods brought home on their Ships, <hi>in two whole years Trade.</hi>
+            </p>
+            <p>2ly. That if Protection had been allowed for <hi>400</hi> Seamen, to go to the <hi>Eaſt-Indies</hi> in <hi>5</hi> Ships this Seaſon, according to the Petitions delivered <hi>Her Majeſty,</hi> — by ſeveral Merchants, the Customs and Imposts which would have been payable on the return of thoſe Ships, would have amounted to above <hi>60000 <abbr>l.</abbr>
+               </hi> — though the number of Seamen which they deſired, be but one third part of what are granted the <hi>late Company</hi> this year.</p>
+            <p>But I know it's objected by the <hi>Companies</hi> Friends, That their Determination would cauſe an Interval of Trade; and the permitting others to Trade, as well as the <hi>Company,</hi> would loſe the Trade to the <hi>Dutch;</hi> and from thence they would inferr a neceſſity of their con<g ref="char:EOLhyphen"/>tinuance, and hindring others from Trading: Whereas the direct contrary of this is really true: For the continuance of the <hi>Company,</hi> and hindring others from Trading is the only probable way for this Nation to loſe the Trade to the <hi>Dutch.</hi> And the Eſtabliſhing a New Company, or permitting all others to Trade, 'till it be ſetled, is the only way to preſerve the Trade to <hi>this Kingdom,</hi> and to prevent its falling wholly
+<pb n="4" facs="tcp:154262:4"/>into the hands of the <hi>Dutch;</hi> this <hi>Company</hi> has made an Interval of Trade, as they call it, for ſeveral years together, <hi>for want of Stock</hi> to carry it on; and the certain way to prevent the like for the future, would be for an Act to paſs, declaring the <hi>Eaſt-India Trade</hi> open and free (as by Law it is) for all Their Majesties Subjects; that ſo none of them may be excluded from that Trade, to which they have all equally a right, by <hi>the Law of the Land.</hi> And as ſuch a declaratory Act would not hinder the <hi>Company</hi> from Trading, as much as they can: So the Trade which would then be driven, by others, would be a preſent and immediate Enlargement of it; and be ſo much more Trade, than would have been driven by the <hi>Company</hi> alone: Therefore a Freedom in this Trade, for all the Subjects of <hi>England,</hi> would really prove the Cure of thoſe evils, which the <hi>Company</hi> would make us fear by it; for thereby the Trade would be effectually ſecured, and fully carried on, without an Interval, or any danger of giving the <hi>Dutch</hi> the opportunity to engroſs it wholly to themſelves; which they have in a manner done already, and are like to do more, by its continuing in the preſent <hi>Company,</hi> and hin<g ref="char:EOLhyphen"/>dring others from Trading; and this would be a help, and encouragement to other Traders, who have ſuffered ſuch extraordinary <hi>loſſes,</hi> and lain under ſo great <hi>diſcouragements</hi> in their other Trades during <hi>this War.</hi>
+            </p>
+            <p>Such a Liberty of Trade, would certainly employ more Ships, and hands, in the <hi>Eaſt-India Trade,</hi> pay more Cuſtoms, make <hi>Engliſh</hi> Goods Sell dearer here, and <hi>Eaſt-India</hi> Goods cheaper; whereby the Nation would gain; and we ſhould not only ſupply our Conſumption, with <hi>Eaſt-India</hi> Goods directly from thence: but likewiſe <hi>other Countries,</hi> as for<g ref="char:EOLhyphen"/>merly we uſed to do: and though the Merchants who drive the Trade may get the leſs, yet the <hi>Kingdom</hi> would nevertheleſs certainly get the more.</p>
+            <p>And having thus given you my thoughts as to the <hi>firſt Point</hi> propoſed, I ſhall now conſider the <hi>ſecond,</hi> viz. Whether that Trade may not be Setled, by adding <hi>744000 <abbr>l.</abbr>
+               </hi> by new Subſcriptions to the <hi>Stock</hi> of the preſent Company, as much to the advantage of the Kingdom in general; as by a new Company, with a new Joint-Stock of <hi>1500000 <abbr>l.</abbr>
+               </hi> or <hi>Two Millions,</hi> to be raiſed by <hi>new Subſcriptions.</hi>
+            </p>
+            <p>This Queſtion in a great meaſure Anſwers it ſelf, for if a Joint-Stock were neceſſary to carry on that Trade, (which is a Propoſition I am yet to be convinc't of) certainly a Stock of <hi>1500000 <abbr>l.</abbr>
+               </hi> or <hi>Two Millions,</hi> raiſed by new Subſcriptions, would be more <hi>National,</hi> and more likely to encreaſe and enlarge the Trade, and conſequently would be more for the advantage of <hi>England,</hi> and leſs for the Intereſt of <hi>Holland,</hi> than the adding <hi>744000 <abbr>l.</abbr>
+               </hi> to the Stock of the preſent Company. For the <hi>744000 <abbr>l.</abbr>
+               </hi> ſo added, would be the whole Stock of the Company, if the Debts and de<g ref="char:EOLhyphen"/>mands due from them ſhould be no more than what their Old Stock could diſcharge, but if they ſhould exceed it (as 'tis moſt probable they will)
+<pb n="5" facs="tcp:154262:4" rendition="simple:additions"/>then the Money added by new Subſcriptions, muſt go towards the pay<g ref="char:EOLhyphen"/>ment of them, and ſo great part of it would be ſwallowed up, and conſe<g ref="char:EOLhyphen"/>quently ſo much the leſs left to carry on the Trade; for if <hi>744000 <abbr>l.</abbr>
+               </hi> ſhould be added, there is <hi>ſo great a Debt now due,</hi> and to be paid in <hi>England,</hi> (beſides the <hi>370000 <abbr>l.</abbr>
+               </hi> for the <hi>50 per cent.</hi> which they paid in laſt year, and is now made a Debt to be repaid) that if they only pay their Debts in <hi>England,</hi> there will be little or nothing left, wherewith to drive the <hi>Trade,</hi> till ſome Ships arrive from <hi>India</hi> with a freſh ſupply. And for <hi>their Debts abroad,</hi> (if they are ever paid) they will require <hi>a Prodi<g ref="char:EOLhyphen"/>gious Summ</hi> to diſcharge them, ſo that this new Subſcription will only ſerve to enable <hi>2 or 3 great Men</hi> to pay themſelves, and draw out the freſh Money which may be brought in, and to give the Company freſh Credit to Enable them to ſend out their <hi>12</hi> Ships this year, as they did their 6 Ships laſt year by the help of the <hi>50 per cent.</hi> which they then called in, and could not do without it.</p>
+            <p>
+               <hi>If</hi> it ſhould be ſaid that ſuch an Eſtabliſhment would give them cre<g ref="char:EOLhyphen"/>dit to take up <hi>what Money they would</hi> at Intereſt, I ſhall only <hi>An<g ref="char:EOLhyphen"/>ſwer,</hi> that I Appeal to all the World, if they have deſerved ſo much Partiality from a <hi>Parliament</hi> to give to them, and their Poſterity <hi>for ever,</hi> all the advantage <hi>of this profitable Trade,</hi> which they have al<g ref="char:EOLhyphen"/>ready enjoyed ſo many years, and by which they have ſo often divided their Original Stock; and that the reſt of <hi>their Fellow Subjects</hi> ſhould ſit down content with the bare Intereſt of their Money lent them to drive that Trade.</p>
+            <p>And notwithſtanding their pretence that their <hi>Stock</hi> can't be thought leſs worth than <hi>744000 <abbr>l.</abbr>
+               </hi> ſeeing the <hi>Parliament</hi> have rated it ſo much, and that their being ſo Taxed, ſhews the <hi>Parliament</hi> were of Opinion 'twas worth it. The contrary is too well known, and 'tis what they don't Believe themſelves, and if <hi>this Propoſition</hi> ſhould be credited, and others <hi>joyn with them</hi> on that ſuppoſition, its the ready way for them <hi>to be cheated of their Money;</hi> and there can be <hi>no colour of Reaſon</hi> that the Company ſhould have <hi>744000 <abbr>l.</abbr>
+               </hi> given them in that Trade <hi>for no<g ref="char:EOLhyphen"/>thing, but only admitting others into a ſhare of it,</hi> who have as much right to the Trade, by the Law of the Land, <hi>as the Company them<g ref="char:EOLhyphen"/>ſelves;</hi> nor is it reaſonable, the Subjects of <hi>England</hi> ſhould be forced to Purchaſe of their Fellow Subjects, the admittance into a <hi>Trade</hi> at ſo dear a Rate, when they cannot be Legally <hi>excluded</hi> from it.</p>
+            <p>If <hi>ſuch a Concluſion</hi> could be drawn from their Stocks being Taxed at <hi>744000 <abbr>l.</abbr>
+               </hi> as that it was really worth ſo much, it might well <hi>be ſuppo<g ref="char:EOLhyphen"/>ſed they procured themſelves to be Taxed ſo much,</hi> that ſo they might make uſe of that for an Argument.</p>
+            <p>Its true, that in their Accounts given to <hi>the Parliament,</hi> they pre<g ref="char:EOLhyphen"/>tended their Eſtate was much more than <hi>744000</hi> 
+               <abbr>l.</abbr> and perhaps their going about to Impoſe <hi>ſuch a Falſity</hi> on that <hi>Honourable Houſe,</hi> by pre<g ref="char:EOLhyphen"/>tending
+<pb n="6" facs="tcp:154262:5"/>their Eſtate was ſo much more than really it was, <hi>might be a Reaſon</hi> why they were ſo Taxed, like the <hi>Millers-Man</hi> in the <hi>Weſt,</hi> who was Hanged for Lying and ſaying he was the <hi>Miller</hi> himſelf; but if their Stock was not worth <hi>744000 <abbr>l.</abbr>
+               </hi> (as its evident it was not) then their being rated ſo much, does not make their Stock the more, but its certain it makes it the leſs. Such a <hi>Propoſal</hi> as the adding <hi>744000 <abbr>l.</abbr> to the Companies Stock,</hi> can only be a means to give <hi>the whole Trade</hi> to the preſent Company, or to endanger its being loſt to the <hi>Dutch,</hi> and is ſo far from making that Trade the more National, that it makes it the leſs, for they alone muſt ſupply the <hi>744000 <abbr>l.</abbr>
+               </hi> and ſo have all that Trade to themſelves, ſeeing that no Body in his right Mind, will join with them <hi>upon thoſe Terms;</hi> they themſelves may perhaps add to what they have there already, to make that <hi>worth ſomething,</hi> which now they know is otherwiſe <hi>worth nothing,</hi> and to be ſure thoſe who have <hi>the Great Stocks</hi> will Subſcribe <hi>10000 <abbr>l.</abbr>
+               </hi> each, to encourage others to do the like; for its only paying back ſome of the Money which they have formerly Divided, on purpoſe to put themſelves (as they once ſaid) <hi>out of the Power of the Parliament.</hi> For to induce others to come into their Stock they offer <hi>Perſonal Security</hi> to repay the Principle Money and Intereſt in <hi>12</hi> Months if deſired, That ſo <hi>Ignorant People, Widows, and Orphans</hi> who know nothing of ſuch Agreements, might by ſuch Examples <hi>be drawn in</hi> to Buy or Subſcribe: how Honeſt it is to offer, or Prudent to accept ſuch Propoſals <hi>the World may judge;</hi> it ſeems to me to be <hi>juſt like two Sharpers at Play, who agree together to Play Booty and Cheat all the reſt;</hi> but this is a new and extraordinary way of making the Trade <hi>National</hi> and <hi>diffuſive;</hi> and it can't be ſuppoſed, it ſhould ever receive countenance from <hi>our Legiſlators,</hi> for it would be a ſtrange recompence for all the unjust actions which <hi>the Company</hi> have committed, as well towards their <hi>Fellow Subjects,</hi> as the <hi>Natives</hi> in <hi>India,</hi> and for which they are juſtly accounted, both a ſcandal <hi>to our Religion and Government,</hi> having been Voted <hi>Murtherers,</hi> and for their <hi>Illegal</hi> Proceedings, <hi>the Honourable Houſe of Commons</hi> have judged ſome of them, might be justly excepted out of the <hi>Act of In<g ref="char:EOLhyphen"/>demnity,</hi> ſo that its inconſiſtent with <hi>the Honour and Juſtice of the Parliament</hi> to eſtabliſh this Company <hi>(who have ſo highly affronted them, by endeavouring to baffle them, and procure an eſtabliſhment in direct oppoſition to them)</hi> and eſpecially, after they have ſo juſtly cenſured them, and made <hi>two Solemn Addreſſes</hi> to the King to have their Charters Diſſolved.</p>
+            <p>The Establiſhing <hi>this Company,</hi> I ſay, at this time would plainly admit of the Pretended Power of <hi>Excluding</hi> the Subjects of <hi>England</hi> from a Freedom of Trade by Charter, to the Freedom of which they have not only <hi>a Right by Birth,</hi> but its likewiſe particularly taken care of,
+<pb n="7" facs="tcp:154262:5" rendition="simple:additions"/>and ſecured to them <hi>by ſeveral expreſs Statutes,</hi> the exerciſe of which Powers for want of being checkt by former <hi>Parliaments,</hi> has already gi<g ref="char:EOLhyphen"/>ven Colour for a pretence to Claim it by Preſcription, <hi>the ill conſequences of which no Man can foreſee.</hi>
+            </p>
+            <p>And it may well ſeem ſtrange, <hi>that Grafting on this Company</hi> ſhould now be thought a reaſonable Propoſition, which was formerly thought ſo dangerous as well as ridiculous, that it was very properly compared to <hi>the Grafting a Peach on a Bramble;</hi> if ſome Mens Minds are chan<g ref="char:EOLhyphen"/>ged, the Company and their Condition are not, unleſs from bad to worſe, they continue now as much a <hi>Bramble</hi> as ever they were, and are ſtill as dangerous and unfit to be Grafted upon, and will certainly prove ſo, if there ſhould be found any people ſo eaſy as <hi>to be Wheedled into ſuch a Project.</hi>
+            </p>
+            <p>Thus Sir, I have in Obedience to your Commands, given you my Thoughts upon thoſe two points you deſired, What I have ſaid, I hope will be ſufficient to convince you, that the continuance of the <hi>preſent Com<g ref="char:EOLhyphen"/>pany,</hi> and the hindring others <hi>from Trading,</hi> is greatly prejudicial to this Kingdom in general, and is chiefly for the advantage of the <hi>Dutch,</hi> and a few of the leading Men of this Company, and that its certainly for the interest of <hi>this Nation</hi> in general, that <hi>a New Company</hi> ſhould be establiſht by <hi>Act of Parliament</hi> to carry on that Trade, either like the <hi>Turkey</hi> Company, or by a Joint-Stock of <hi>1500000 <abbr>l.</abbr>
+               </hi> or <hi>2000000 <abbr>l.</abbr>
+               </hi> to be wholly raiſed by New Subſcriptions.</p>
+            <p>And therefore it is abſolutely neceſſary, that ſome <hi>ſpeedy Reſolution</hi> ſhould be taken in this matter, that ſo by <hi>the longer continuance</hi> of this Trade under the late management, and hindring others from partaking of it, who cannot Legally be Excluded, <hi>This Advantagious Trade</hi> may not be wholly given up to the <hi>Dutch,</hi> and ſo be past retrieve; and to in<g ref="char:EOLhyphen"/>cline you the more to think of ſome ſpeedy and effectual courſe for pre<g ref="char:EOLhyphen"/>venting ſo great a miſchief, and alſo to enforce what I have already ob<g ref="char:EOLhyphen"/>ſerved, I will add a Quotation out of a Treatiſe of Trade, formerly writ<g ref="char:EOLhyphen"/>ten by Sir <hi>Joſiah Child,</hi> and Reprinted this Year <hi>1693,</hi> who in his Pre<g ref="char:EOLhyphen"/>face ſays thus, <q>
+                  <hi>I think no true</hi> Engliſh <hi>Man will deny that the Seaſon cries aloud to us, to be up and doing, before our Fields become un<g ref="char:EOLhyphen"/>occupied, and before the <hi>Dutch</hi> get too much the Whip hand of us, (whom in ſuch a caſe were they free from their</hi> French <hi>Fears, which they labour under at preſent) I fear we ſhould find as ſevere Task-maſters as ever the</hi> Athenians <hi>were to the leſſer Trading Cities of</hi> Greece.</q>
+            </p>
+            <p>And if when <hi>this Gentleman</hi> wrote his ſaid <hi>Treatiſe,</hi> there appeared ſuch Danger of the <hi>Dutch</hi> encroaching upon us in our Trade, it will cer<g ref="char:EOLhyphen"/>tainly be granted by all <hi>Thinking Men,</hi> that as the Danger with reſpect to the Trade of <hi>this Kingdom</hi> in general, is not leſſened, ſo particularly as
+<pb n="8" facs="tcp:154262:6"/>to the <hi>Eaſt-India Trade</hi> it is now very much encreaſed; and as he has farther obſerved in the ſame Preface, <q>
+                  <hi>neither are the <hi>Dutch</hi> the only Neighbours we have at this time for Corrivals in Trade, but the</hi> French <hi>King, and King of</hi> Sweden, <hi>are now as Active, Circumſpect Induſtrious and Perſpective too in this Affair, and have, and are ordering things as prudently for promoting thereof, as the <hi>Dutch</hi> themſelves.</hi>
+               </q>
+            </p>
+            <p>To which Number there may likewiſe be added the <hi>Danes, Portugueze,</hi> and <hi>Genoueſes,</hi> who do not only Court and Promote all Trade in General, but in a particular manner the <hi>Eaſt-India</hi> Trade.</p>
+            <p>And as the ſecuring the <hi>Turkey</hi> Trade from our Enemyes has been thought a matter Worthy the <hi>Care</hi> of the <hi>Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons,</hi> ſo its to be hoped the preſerving the <hi>Eaſt-India</hi> from our Friends, will appear of ſuch concern, as that it will not be paſt over without due Conſideration.</p>
+            <p>I heartily wiſh what I have wrote you on this ſubject, <hi>may convince you</hi> of the Neceſſity there is, of declaring this Trade free for all the Subjects of <hi>England,</hi> and then I am ſure you will employ your ſelf Vigorouſly there<g ref="char:EOLhyphen"/>in, being a matter of ſo great concern, as well for the ſecuring the <hi>Rights</hi> and <hi>Properties</hi> of the Subjects of <hi>England,</hi> as the Trade of this Kingdom; You may perhaps think I have toucht <hi>too ſlightly</hi> upon the Subject of a <hi>Regulated Company.</hi> What I have been obliged to obſerve to you as to other matters, has run this beyond the ordinary Bounds of a <hi>Letter,</hi> and will I doubt, tire your Patience, beſides that the other, is a point which requires <hi>a larger diſcuſſion</hi> then my Time would allow me Oppor<g ref="char:EOLhyphen"/>tunity for, — But if you deſire it, you know you may command me in any thing, though I could wiſh you would require it from <hi>ſome better Pen,</hi> leaſt you ſhould be Prejudiced againſt a Propoſition, which if accompliſht, would be <hi>ſo extreamly Advantagious to this Kingdom,</hi> for I am fear<g ref="char:EOLhyphen"/>ful the Cauſe might ſuffer <hi>in your Opinion,</hi> by my ill managing the Arguments which might be uſed for its Defence. <hi>I ſhall conclude,</hi> and only aſſure you, that no one can be more than I am,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your moſt Obliged Servant</signed>
+            </closer>
+            <pb facs="tcp:154262:6" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
